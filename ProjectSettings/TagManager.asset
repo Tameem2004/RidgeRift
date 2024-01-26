@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2914577651
+    locked: 0
+  - name: Road
+    uniqueID: 826844933
+    locked: 0
+  - name: Car
+    uniqueID: 3903859857
+    locked: 0
+  - name: Santa
+    uniqueID: 438267599
+    locked: 0
+  - name: Tire1
+    uniqueID: 3071544161
+    locked: 0
+  - name: Tire2
+    uniqueID: 2495579889
+    locked: 0
+  - name: Ramp
+    uniqueID: 1954506733
+    locked: 0
+  - name: refill
+    uniqueID: 3912072905
+    locked: 0
+  - name: book
+    uniqueID: 2228324035
+    locked: 0
+  - name: stall
+    uniqueID: 1080625887
+    locked: 0
