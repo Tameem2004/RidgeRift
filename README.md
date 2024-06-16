@@ -30,3 +30,8 @@ To run Ridge Rift locally, follow these steps:
 
 ![Screenshot 2024-01-27 005433](https://github.com/Tameem2004/RidgeRift/assets/116261279/a6e762d2-db0d-4eb6-9f88-c136a69990c7)
 ![Screenshot 2024-01-27 005403](https://github.com/Tameem2004/RidgeRift/assets/116261279/0fdd9308-db5d-4bcb-adcf-aa0a1562ade5)
+
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
