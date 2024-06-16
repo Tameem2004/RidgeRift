@@ -1,5 +1,18 @@
 # RidgeRift
-This is a 2D Hill Climb game that made with unity 2D and C# language.
+
+Ridge Rift is an exciting Unity 2D hill climb game where players navigate challenging terrain with various vehicles.
+
+### Features:
+- Physics-based gameplay optimized for Unity 2D.
+- Multiple vehicles and levels to explore.
+- Dynamic weather and terrain conditions.
+- Leaderboards to track your progress.
+
+### Getting Started:
+To run Ridge Rift locally, follow these steps:
+1. Clone the repository.
+2. Open the project in Unity.
+3. Navigate to the main scene and hit play to start the game.
 
 Youtube videos that helps me to complete this project:-
 1. Main Play List:- https://youtube.com/playlist?list=PLxefhmF0pcPk5BHIFBHmef4V8v8CS67Jx&si=zH2qzPvGqlOc8Mff
